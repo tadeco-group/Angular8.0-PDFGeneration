@@ -30,7 +30,7 @@ ok,if you do this you will show the button name "Imprimer" in frensh that means 
 
 just click in it and you will see the result.
 
-![Image description]("../src/assets/Designed BY_ Abdellah ABAIR.png")
+![Image description]("https://github.com/AbdellahAbair/Angular8.0-PDFGeneration/blob/master/src/assets/Designed%20BY_%20Abdellah%20ABAIR.png")
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
